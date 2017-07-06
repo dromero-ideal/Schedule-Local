@@ -1,0 +1,577 @@
+Period 0
+
+Period 1
+Spanish 3
+Arc of Justice E S2
+HS Informal Reasoning
+Algebra 1
+Applied Math
+
+Period 2
+Arc of Justice E
+Precalc/Stats
+PreAlgebra
+AP Calc AB
+Geometry
+
+Period 3
+Bio: Independent Research S1
+Spanish 3 Int
+AP Physics 1
+MS Informal Reasoning S2
+Algebra 2/Trig
+
+Period 4
+Biology
+8th Project
+Cosmology
+MS Informal Reasoning
+
+Period 5
+Bio: Independent Research S2
+AP Lit
+Better Angels
+Chemistry
+MS PE
+
+Period 6
+Spanish 1
+World War I
+Chinese 1
+French 1
+Latin 2
+Arc of Justice H
+
+Period 7
+Spanish 5H
+Chinese 4
+APCS1
+French 2
+Latin 4
+MS History
+
+Period 8
+Ecology
+Spanish 2
+APCS2
+HS Philosophy
+French 3-4
+Latin 1
+8 History
+Guitar
+
+Period 9
+Science 6/7
+Spanish 2 Int
+AP Lang
+Chinese 2
+Science 8
+HS Art
+Early Leave
+
+Period 10
+10th Project
+AP Physics 1+
+MS Art
+
+!!!!!!!!!!WIN!!!!!!!!!!
+
+Bogusz, Evalynn
+-----------------
+2 - PreAlgebra
+4 - MS Informal Reasoning
+5 - MS PE
+6 - Spanish 1
+7 - MS History
+8 - Guitar
+9 - Science 6/7
+10 - MS Art
+
+Caldwell, Joseph
+-----------------
+2 - PreAlgebra
+4 - MS Informal Reasoning
+5 - MS PE
+6 - Spanish 1
+7 - MS History
+8 - Guitar
+9 - Science 6/7
+10 - MS Art
+
+Manuel-Scott, Langston
+-----------------
+2 - PreAlgebra
+4 - MS Informal Reasoning
+5 - MS PE
+7 - MS History
+8 - Latin 1
+9 - Science 6/7
+10 - MS Art
+
+Sran, Ella
+-----------------
+1 - Algebra 1
+4 - MS Informal Reasoning
+5 - MS PE
+6 - French 1
+7 - MS History
+8 - Guitar
+9 - Science 6/7
+10 - MS Art
+
+Bisht, Shyla
+-----------------
+2 - Geometry
+3 - Algebra 2/Trig
+4 - MS Informal Reasoning
+5 - MS PE
+7 - MS History
+8 - Latin 1
+9 - Science 6/7
+10 - MS Art
+
+Canela, Hannah
+-----------------
+1 - Algebra 1
+2 - Geometry
+4 - MS Informal Reasoning
+5 - MS PE
+6 - Chinese 1
+7 - MS History
+9 - Science 6/7
+10 - MS Art
+
+Ching, Man Tzu (Coco)
+-----------------
+1 - Algebra 1
+4 - MS Informal Reasoning
+5 - MS PE
+7 - MS History
+8 - Guitar
+9 - Science 6/7
+10 - MS Art
+
+Cross, Aidan
+-----------------
+1 - Algebra 1
+4 - MS Informal Reasoning
+5 - MS PE
+7 - MS History
+8 - Latin 1
+9 - Science 6/7
+10 - MS Art
+
+Foreman, Taz
+-----------------
+2 - PreAlgebra
+4 - MS Informal Reasoning
+5 - MS PE
+6 - French 1
+7 - MS History
+8 - Guitar
+9 - Science 6/7
+10 - MS Art
+
+Irvine, Sam
+-----------------
+2 - Geometry
+3 - Algebra 2/Trig
+4 - MS Informal Reasoning
+5 - MS PE
+7 - MS History
+8 - Spanish 2
+9 - Science 8
+10 - MS Art
+
+O'Masta, Kodiak
+-----------------
+1 - Algebra 1
+4 - MS Informal Reasoning
+5 - MS PE
+6 - French 1
+7 - MS History
+9 - Science 6/7
+10 - MS Art
+
+D'Avanzo, Gabi
+-----------------
+1 - Algebra 1
+2 - Geometry
+3 - MS Informal Reasoning S2
+4 - 8th Project
+5 - MS PE
+6 - French 1
+8 - 8 History
+9 - Science 8
+10 - MS Art
+
+Eidbo, Elling
+-----------------
+1 - Spanish 3
+2 - Geometry
+3 - MS Informal Reasoning S2
+4 - 8th Project
+5 - MS PE
+8 - 8 History
+9 - Science 8
+10 - MS Art
+
+Manning, Eric
+-----------------
+2 - Geometry
+3 - MS Informal Reasoning S2
+4 - 8th Project
+5 - MS PE
+7 - French 2
+8 - 8 History
+9 - Science 8
+10 - MS Art
+
+Moriarty, Cavan
+-----------------
+1 - Algebra 1
+2 - Geometry
+3 - MS Informal Reasoning S2
+4 - 8th Project
+5 - MS PE
+6 - Chinese 1
+8 - 8 History
+9 - Science 8
+10 - MS Art
+
+Orledge, Summer
+-----------------
+2 - Geometry
+3 - MS Informal Reasoning S2
+4 - 8th Project
+5 - Bio: Independent Research S2
+6 - Latin 2
+8 - 8 History
+9 - Science 8
+10 - MS Art
+
+Sinclair, Jaddus
+-----------------
+2 - Geometry
+3 - MS Informal Reasoning S2
+4 - 8th Project
+5 - MS PE
+7 - French 2
+8 - 8 History
+9 - Science 8
+10 - MS Art
+
+Watkinson (Rohleder), Austin
+-----------------
+2 - Geometry
+3 - MS Informal Reasoning S2
+4 - 8th Project
+6 - Latin 2
+8 - 8 History
+9 - Science 8
+
+Boodlal, Keaton
+-----------------
+1 - Arc of Justice E S2
+3 - Algebra 2/Trig
+4 - Biology
+6 - Arc of Justice H
+7 - APCS1
+9 - Spanish 2 Int
+
+Conway, Sofia
+-----------------
+2 - Arc of Justice E
+3 - Algebra 2/Trig
+4 - Biology
+5 - AP Lit
+6 - World War I
+8 - French 3-4
+
+Cross, Maddie
+-----------------
+1 - Arc of Justice E S2
+2 - Geometry
+4 - Biology
+6 - Arc of Justice H
+8 - Latin 1
+9 - HS Art
+
+Durban, Sophia
+-----------------
+1 - Algebra 1
+2 - Arc of Justice E
+3 - Bio: Independent Research S1
+4 - Biology
+5 - AP Lit
+6 - Arc of Justice H
+7 - French 2
+
+Kish, Jared
+-----------------
+1 - HS Informal Reasoning
+4 - Biology
+5 - Better Angels
+6 - French 1
+7 - APCS1
+8 - Latin 1
+
+Knipmeyer, Katie
+-----------------
+1 - HS Informal Reasoning
+2 - AP Calc AB
+3 - AP Physics 1
+4 - Biology
+5 - AP Lit
+6 - World War I
+8 - French 3-4
+10 - AP Physics 1+
+
+Picot, Ben
+-----------------
+1 - Arc of Justice E S2
+2 - Geometry
+4 - Biology
+6 - World War I
+8 - Spanish 2
+
+Sran, Shailee
+-----------------
+1 - HS Informal Reasoning
+3 - Algebra 2/Trig
+4 - Biology
+5 - AP Lit
+6 - World War I
+7 - Chinese 4
+
+Steppel, Madeleine
+-----------------
+3 - Algebra 2/Trig
+4 - Biology
+5 - AP Lit
+8 - French 3-4
+9 - Chinese 2
+
+Varanelli, Jack
+-----------------
+1 - Spanish 3
+2 - Arc of Justice E
+3 - Algebra 2/Trig
+4 - Biology
+6 - Arc of Justice H
+7 - APCS1
+8 - Latin 1
+
+Cheema, Zohaib
+-----------------
+1 - Arc of Justice E S2
+2 - Precalc/Stats
+5 - Chemistry
+6 - Arc of Justice H
+7 - APCS1
+9 - Spanish 2 Int
+10 - 10th Project
+
+Fitzgerald, Michael
+-----------------
+1 - Arc of Justice E S2
+2 - AP Calc AB
+3 - AP Physics 1
+6 - Arc of Justice H
+7 - APCS1
+8 - Spanish 2
+9 - Early Leave
+10 - AP Physics 1+
+
+Hu, Ruiyan (Rebecca)
+-----------------
+1 - Arc of Justice E S2
+3 - Algebra 2/Trig
+4 - Biology
+5 - Better Angels
+6 - French 1
+10 - 10th Project
+
+Huang, Mona
+-----------------
+1 - Arc of Justice E S2
+2 - Precalc/Stats
+4 - Biology
+5 - Better Angels
+6 - French 1
+10 - 10th Project
+
+Moriarty, Liam
+-----------------
+1 - Arc of Justice E S2
+3 - Algebra 2/Trig
+5 - Chemistry
+6 - Arc of Justice H
+7 - APCS1
+9 - Chinese 2
+10 - 10th Project
+
+Wakabayashi, Cam
+-----------------
+1 - HS Informal Reasoning
+3 - Algebra 2/Trig
+4 - Biology
+5 - Better Angels
+7 - French 2
+10 - 10th Project
+
+Winner, Alex
+-----------------
+1 - Arc of Justice E S2
+2 - Geometry
+5 - Chemistry
+6 - Arc of Justice H
+7 - French 2
+8 - Spanish 2
+10 - 10th Project
+
+Fareedi, Kamran
+-----------------
+1 - Spanish 3
+2 - Precalc/Stats
+5 - Chemistry
+6 - World War I
+7 - APCS1
+9 - AP Lang
+
+Gustafsson, Cas
+-----------------
+1 - Arc of Justice E S2
+2 - Precalc/Stats
+3 - AP Physics 1
+6 - Arc of Justice H
+7 - APCS1
+9 - AP Lang
+10 - AP Physics 1+
+
+Hammond, Ilsa
+-----------------
+2 - Precalc/Stats
+3 - Bio: Independent Research S1
+4 - Cosmology
+5 - Chemistry
+6 - World War I
+7 - Chinese 4
+8 - APCS2
+9 - AP Lang
+
+Lewis, Kimberly
+-----------------
+1 - HS Informal Reasoning
+2 - Precalc/Stats
+5 - Chemistry
+8 - Spanish 2
+9 - AP Lang
+
+Lorenz, Tanner
+-----------------
+1 - Arc of Justice E S2
+2 - AP Calc AB
+5 - Chemistry
+6 - World War I
+7 - French 2
+8 - APCS2
+9 - Chinese 2
+
+Shomo, William
+-----------------
+2 - AP Calc AB
+5 - Chemistry
+6 - World War I
+7 - Latin 4
+8 - APCS2
+9 - AP Lang
+
+Braun, Georgia
+-----------------
+1 - Applied Math
+5 - Chemistry
+6 - World War I
+8 - HS Philosophy
+9 - AP Lang
+
+Brickell, Christopher
+-----------------
+1 - Applied Math
+2 - Arc of Justice E
+6 - Arc of Justice H
+8 - Ecology
+
+Fadul, Adam
+-----------------
+1 - HS Informal Reasoning
+2 - Precalc/Stats
+4 - Cosmology
+5 - AP Lit
+7 - Spanish 5H
+8 - Ecology
+
+Garrity, Meghan
+-----------------
+1 - Applied Math
+2 - Arc of Justice E
+3 - AP Physics 1
+5 - Bio: Independent Research S2
+6 - Arc of Justice H
+7 - APCS1
+9 - HS Art
+10 - AP Physics 1+
+
+Keyser, Tessa
+-----------------
+1 - Applied Math
+2 - Arc of Justice E
+3 - Spanish 3 Int
+5 - AP Lit
+6 - Arc of Justice H
+8 - Ecology
+9 - HS Art
+
+McCrae, Gwyneth
+-----------------
+1 - HS Informal Reasoning
+2 - AP Calc AB
+3 - AP Physics 1
+4 - Cosmology
+7 - APCS1
+8 - HS Philosophy
+9 - AP Lang
+10 - AP Physics 1+
+
+Moriarty, Peyton
+-----------------
+2 - AP Calc AB
+3 - AP Physics 1
+5 - AP Lit
+6 - World War I
+7 - APCS1
+9 - Chinese 2
+10 - AP Physics 1+
+
+Smith, Leah
+-----------------
+1 - HS Informal Reasoning
+2 - AP Calc AB
+3 - Spanish 3 Int
+4 - Cosmology
+5 - AP Lit
+7 - French 2
+8 - APCS2
+9 - Chinese 2
+
+Sweeney, Katherine
+-----------------
+1 - HS Informal Reasoning
+2 - AP Calc AB
+3 - Spanish 3 Int
+4 - Cosmology
+7 - APCS1
+8 - HS Philosophy
+9 - AP Lang
+
+

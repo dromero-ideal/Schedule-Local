@@ -1,0 +1,3 @@
+Update the Assign function in Schedule_Classes.py
+	This function is augmented by the symmetry in teacher availability.
+	Needs to be updated each time.
